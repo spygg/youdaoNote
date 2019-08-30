@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Youdao Note
+GenericName=Youdao Note
+Comment=有道云笔记Linu版本
+Terminal=false
+Exec=/opt/youDaoNote/youDaoNote
+MimeType=text/plain;
+Icon=/opt/youDaoNote/res/logo.png
+Categories=TextEditor;Development;
+StartupNotify=true
+Actions=Window;Document;
